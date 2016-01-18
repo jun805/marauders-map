@@ -3,8 +3,8 @@
 // Global Variables
 
 // Map Variables
-	L.mapbox.accessToken = 'pk.eyJ1IjoiYXJhbmtoYW5uYSIsImEiOiJjYWYxOTcwYTI4ZTNhNDA5NTdlMzFjMDQ0NWM3OThjMSJ9.j6OVr_W3jAAdxusZ5qLXlg';
-	var map_id = "arankhanna.m3ankjj3";
+	L.mapbox.accessToken = 'pk.eyJ1IjoieXVzdWY3NzAiLCJhIjoiY2lqa2Z0MHY0MDMyNXU0bTVhYnBmbDlpeSJ9.sHySJ5R7WWbRmnVXFT6KdA';
+	var map_id = "yusuf770";
 	// Map object
 	var map = null;
 	// Lines between points drawn on map
